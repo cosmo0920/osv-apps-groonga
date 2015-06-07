@@ -1,6 +1,6 @@
 This module is an example building Groonga OSv image.
 
-Currently, only `groonga --version` is working.
+Currently, only `groonga --version` and `groonga --help` is working. ;-p
 
 Otherwise, you will encounter following issue:
 
